@@ -1,0 +1,22 @@
+# Core packages for MRI visualization
+numpy>=1.20.0
+matplotlib>=3.3.0
+opencv-python>=4.5.0
+
+# Medical imaging libraries
+nibabel>=3.2.0
+SimpleITK>=2.1.0
+# antspyx>=0.3.0  # Optional: uncomment if using ANTsPy
+
+# Interactive visualization
+ipywidgets>=7.6.0
+ipympl>=0.8.0
+
+# Jupyter support
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Optional but recommended
+scipy>=1.6.0
+scikit-image>=0.18.0
+pandas>=1.2.0  # For data analysis
